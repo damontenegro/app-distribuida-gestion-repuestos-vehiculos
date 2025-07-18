@@ -33,7 +33,7 @@ cd app-distribuida-gestion-repuestos-vehiculos
 docker-compose up -d --build
 ________________________________________
 🐳 Repositorios DockerHub
-•	Backend en DockerHub
+•	Backend en DockerHub (https://hub.docker.com/r/damontenegro17/backend)
 ________________________________________
 👥 Autores
 Daniel Montenegro
