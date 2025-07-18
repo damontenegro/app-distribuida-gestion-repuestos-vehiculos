@@ -1,0 +1,47 @@
+.ventas-lista {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.ventas-lista h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.venta-card {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-left: 5px solid #007BFF;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.venta-card p {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.venta-fecha {
+  font-size: 14px;
+  color: #666;
+}
+
+.venta-card button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.venta-card button:hover {
+  background-color: #c82333;
+}
+
